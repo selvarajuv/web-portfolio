@@ -1,0 +1,38 @@
+.sticky-navbar {
+  position: sticky;
+  margin: 0 auto;
+  border-radius: 30px;
+  width: 35vw;
+  background-color: rgba(104, 143, 106, 0.8);
+  padding: .4vw 0px;
+  text-align: center;
+  top: 25px;
+  z-index: 100000;
+}
+
+.links {
+  justify-content: space-around;
+  display: flex;
+  text-align: center;
+}
+
+.links a {
+  color: #ffffff;
+  text-decoration: none;
+  border: .7vw solid transparent;
+  font-size: .7vw;
+}
+
+.links a:hover {
+  color: #000000;
+}
+
+.links a.active {
+  border: .3vw solid transparent;
+  background-color: #2f6e47;
+  border-radius: 40px;
+  padding: .4vw;
+  transition: all 0.3s ease-in-out;
+  color: #000000;
+}
+

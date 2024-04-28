@@ -1,0 +1,75 @@
+.projectTemplate-container {
+  border: 5px solid black;
+  padding: 16px;
+  margin: 16px;
+  border-radius: 20px;
+  width: 48%;
+  height: 40%;
+  text-align: left;
+  margin: 4% auto;
+  background-color: #2f6e47;
+  position: relative;
+  overflow: hidden;
+  transition: background-color 0.3s ease;
+}
+
+.projectTemplate-container h2 {
+  color: black;
+  margin-top: 3%;
+  margin-left: 3%;
+  text-align: left;
+  font-size: 2vw;
+}
+
+.tools-icons p {
+  color: #000;
+  font-size: 1vw;
+}
+
+.tools-icons {
+  margin-left: 3%;
+  margin-top: 3%;
+  display: flex;
+  gap: 8px;
+  display: flex;
+  align-items: center;
+}
+
+.tool-icon img{
+  width: 2vw;
+}
+
+.description, .date {
+  color: #000000;
+  margin-left: 3%;
+  margin-top: 1%;
+  width: 40%;
+  font-size: 1vw;
+  line-height: 140%;
+  font-weight: 500;
+
+}
+
+.date {
+  margin-top: 3%;
+  font-size: 1vw;
+}
+
+.demo_picture {
+  position: absolute;
+  bottom: 0;
+  right: -15px;
+  width: 50%;
+  object-fit: cover;
+  border-radius: 20px 0 0 0;
+  margin-bottom: -6vw;
+  z-index: 1;
+  transition: transform .3s ease;
+}
+
+.projectTemplate-container:hover {
+  background-color: #688f6a;
+  .demo_picture {
+    transform: rotate(-2.8deg);
+  }
+}

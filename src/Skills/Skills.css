@@ -1,0 +1,67 @@
+:root {
+  --row-1: 4;
+  --row-2: 8;
+}
+
+.skillsContainer {
+  text-align: center;
+  display: grid;
+  grid-template-columns: repeat(5, 1fr);
+  grid-template-rows: repeat(8, 3.5vw);
+  margin-left: 20vw;
+  margin-right: 20vw;
+  place-items: center;
+}
+
+.skillsContainer h1 {
+  font-size: 4vw;
+  grid-row: 1;
+  grid-column: 2 / 5 ;
+}
+
+.pythonLogo {
+  grid-row-start: var(--row-1);
+  grid-column-start: 1;
+}
+
+.dockerLogo {
+  grid-row-start: var(--row-1);
+  grid-column-start: 2;
+}
+
+.mysqlLogo {
+  grid-row-start: var(--row-1);
+  grid-column-start: 3;
+}
+
+.javascriptLogo {
+  grid-row-start: var(--row-1);
+  grid-column-start: 4;
+}
+
+.typescriptLogo {
+  grid-row-start: var(--row-1);
+  grid-column-start: 5;
+}
+
+.reactLogo {
+  grid-row-start: var(--row-2);
+  grid-column: 2;
+}
+
+.htmlLogo {
+  grid-row-start: var(--row-2);
+  grid-column: 3;
+  width: 5.5vw !important;
+}
+
+.cssLogo {
+  grid-row-start: var(--row-2);
+  grid-column: 4;
+
+}
+
+.skillsContainer img{
+  display: inline;
+  width: 6vw;
+}
