@@ -11,14 +11,18 @@ function App() {
       <section id="Home">
         <Home />
       </section>
-      <div className="borderHome"></div>
-      <section id="Projects">
-        <Project />
-      </section>
-      <div className="borderHome"></div>
-      <section id="Skills">
-        <Skills />
-      </section>
+      <div className="ProjectAnchor">
+        <div className="borderHome"></div>
+        <section id="Projects">
+          <Project />
+        </section>
+      </div>
+      <div className="SkillsAnchor">
+        <div className="borderHome"></div>
+        <section id="Skills">
+          <Skills />
+        </section>
+      </div>
     </div>
   );
 }

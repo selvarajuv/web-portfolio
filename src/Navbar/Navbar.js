@@ -11,17 +11,15 @@ const Navbar = () => {
           smooth={true}
           duration={500}
           spy={true}
-          offset={-150}
           activeClass="active"
         >
           HOME
         </Link>
         <Link
-          to="Projects"
+          to="ProjectAnchor"
           smooth={true}
           duration={500}
           spy={true}
-          offset={-90}
           activeClass="active"
         >
           PROJECTS
