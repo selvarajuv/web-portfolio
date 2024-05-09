@@ -25,7 +25,7 @@ const Navbar = () => {
           PROJECTS
         </Link>
         <Link
-          to="Skills"
+          to="SkillsAnchor"
           smooth={true}
           duration={500}
           spy={true}
@@ -34,7 +34,7 @@ const Navbar = () => {
           SKILLS
         </Link>
         <Link
-          to="Experience"
+          to="ExperienceAnchor"
           smooth={true}
           duration={500}
           spy={true}

@@ -44,7 +44,7 @@ const projectsData = [
 const Project = () => {
   return (
     <div className="projectContainer">
-      <h1>My Projects</h1>
+      <h1>Projects</h1>
       {projectsData.map((project, index) => (
         <ProjectTemplate key={index} {...project} />
       ))}

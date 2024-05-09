@@ -3,6 +3,7 @@ import Navbar from "./Navbar/Navbar";
 import Home from "./Home/Home";
 import Project from "./Projects/Projects";
 import Skills from "./Skills/Skills";
+import Experience from "./Experience/Experience";
 
 function App() {
   return (
@@ -22,6 +23,16 @@ function App() {
         <section id="Skills">
           <Skills />
         </section>
+      </div>
+      <div className="ExperienceAnchor">
+        <div className="borderHome"></div>
+        <section id="Experience">
+          <Experience />
+        </section>
+      </div>
+      <div className="EducationAnchor">
+        <div className="borderHome"></div>
+        <section id="Education"></section>
       </div>
     </div>
   );

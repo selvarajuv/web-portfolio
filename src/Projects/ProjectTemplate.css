@@ -57,12 +57,13 @@
 
 .demo_picture {
   position: absolute;
-  bottom: 0;
+  bottom: -15px;
   right: -15px;
   width: 50%;
+  height: 90%;
+  object-position: center top;
   object-fit: cover;
   border-radius: 20px 0 0 0;
-  margin-bottom: -6vw;
   z-index: 1;
   transition: transform .3s ease;
 }

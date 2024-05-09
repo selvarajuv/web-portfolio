@@ -14,7 +14,7 @@ import flask from "../media/Skills_Images/flask-logo.svg";
 const Skills = () => {
   return (
     <div className="skillsContainer">
-      <h1>My Skills</h1>
+      <h1>Skills</h1>
       <div className="pythonLogo">
         <img src={python} alt="python-logo" />
         <p>Python</p>
