@@ -2,7 +2,7 @@
   text-align: center;
   display: grid;
   grid-template-columns: repeat(5, 1fr);
-  grid-template-rows: repeat(8, 3.5vw);
+  grid-template-rows: repeat(5, 3.5vw);
   margin-left: 5vw;
   margin-right: 5vw;
 }
@@ -29,7 +29,7 @@
   justify-self: start;
 }
 
-.experienceTemplate-container:nth-child(4) {
+/* .experienceTemplate-container:nth-child(4) {
   grid-column-start: 1;
   grid-column-end: 3;
   grid-row-start: 6;
@@ -44,3 +44,4 @@
   grid-row-end: 8;
   justify-self: start;
 }
+ */

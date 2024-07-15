@@ -7,12 +7,12 @@ body {
 * {
   margin: 0;
   font-family: Rubik;
-  color: #fff;
+  color: #ffffff;
 }
 
 .borderHome {
-  background-color: #646464;
-  height: 2px;
+  background-color: #ffffff;
+  height: 3px;
   margin: 4vw auto;
   margin-bottom: 4vw;
   width: 90%;

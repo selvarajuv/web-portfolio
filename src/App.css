@@ -1,0 +1,7 @@
+.App {
+  background-image: url('./media/background.png');
+  background-repeat: repeat;
+  background-position: center;
+  position: relative;
+  z-index: 1;
+}
