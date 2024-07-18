@@ -5,6 +5,7 @@ import Home from "./Home/Home";
 import Project from "./Projects/Projects";
 import Skills from "./Skills/Skills";
 import Experience from "./Experience/Experience";
+import Education from "./Education/Education";
 
 function App() {
   return (
@@ -33,7 +34,9 @@ function App() {
       </div>
       <div className="EducationAnchor">
         <div className="borderHome"></div>
-        <section id="Education"></section>
+        <section id="Education">
+          <Education />
+        </section>
       </div>
     </div>
   );
