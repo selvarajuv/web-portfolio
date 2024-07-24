@@ -11,10 +11,17 @@ body {
 }
 
 .borderHome {
-  background-color: #6b6b6b;
-  height: 3px;
-  margin: 4vw auto;
+  height: 2px;
+  margin: 2vw auto;
   margin-bottom: 4vw;
   width: 90%;
+}
+
+
+.educationImage {
+  left: 50%;
+  transform: translateX(-50%);
+  height: 30vw;
+  display: block;
 }
 

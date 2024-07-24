@@ -43,22 +43,13 @@ const Navbar = () => {
           EXPERIENCE
         </Link>
         <Link
-          to="Education"
+          to="EducationAnchor"
           smooth={true}
           duration={500}
           spy={true}
           activeClass="active"
         >
           EDUCATION
-        </Link>
-        <Link
-          to="Contact"
-          smooth={true}
-          duration={500}
-          spy={true}
-          activeClass="active"
-        >
-          CONTACT
         </Link>
       </div>
     </nav>

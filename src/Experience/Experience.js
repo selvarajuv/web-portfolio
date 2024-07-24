@@ -18,6 +18,18 @@ const experienceData = [
     date: "May 2024 - July 2024",
     demo_picture: [vibhathiLogo],
   },
+  {
+    name: "Coming Soon :)",
+    description: "",
+    date: "",
+    demo_picture: [transparent],
+  },
+  {
+    name: "Coming Soon :)",
+    description: "",
+    date: "",
+    demo_picture: [transparent],
+  },
 ];
 
 const Experience = () => {
