@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ec96daa0.css",
+    "main.js": "/static/js/main.e2654789.js",
+    "static/js/453.558935f8.chunk.js": "/static/js/453.558935f8.chunk.js",
+    "static/media/background.png": "/static/media/background.e9e6ab4247692918bf8a.png",
+    "static/media/profile.PNG": "/static/media/profile.5ea215b945feffd959ba.PNG",
+    "static/media/local_league_legends.png": "/static/media/local_league_legends.09fbc695ad3a95b4cf55.png",
+    "static/media/react-logo.png": "/static/media/react-logo.8a6fc0a24a800d1e0f4a.png",
+    "static/media/python-logo.png": "/static/media/python-logo.82efb64f8698a267f8bf.png",
+    "static/media/nba_best_bets_pic.png": "/static/media/nba_best_bets_pic.749d74baaa6473093544.png",
+    "static/media/Typescript_logo_2020.svg.png": "/static/media/Typescript_logo_2020.svg.1e3902edbe4c3f2970d8.png",
+    "static/media/html-logo.png": "/static/media/html-logo.bd375a8d11309c87c978.png",
+    "static/media/JavaScript-logo.png": "/static/media/JavaScript-logo.d206e1f67e4c0985166c.png",
+    "static/media/css-logo.png": "/static/media/css-logo.58dfbebae4a02001b50e.png",
+    "static/media/mysql-logo.png": "/static/media/mysql-logo.a04abbf76b39676bc4d9.png",
+    "static/media/flask-logo.svg": "/static/media/flask-logo.8656fecdd81b1a2b8e504787bd5ca745.svg",
+    "static/media/northeastern_logo.svg": "/static/media/northeastern_logo.4a8f3750b27af5d2556d8f40a9e0aa57.svg",
+    "index.html": "/index.html",
+    "main.ec96daa0.css.map": "/static/css/main.ec96daa0.css.map",
+    "main.e2654789.js.map": "/static/js/main.e2654789.js.map",
+    "453.558935f8.chunk.js.map": "/static/js/453.558935f8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ec96daa0.css",
+    "static/js/main.e2654789.js"
+  ]
+}
