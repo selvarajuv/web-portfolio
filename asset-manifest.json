@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/web-portfolio/static/css/main.258ec162.css",
+    "main.js": "/web-portfolio/static/js/main.575ae423.js",
+    "static/js/453.558935f8.chunk.js": "/web-portfolio/static/js/453.558935f8.chunk.js",
+    "static/media/background.png": "/web-portfolio/static/media/background.e9e6ab4247692918bf8a.png",
+    "static/media/profile.PNG": "/web-portfolio/static/media/profile.5ea215b945feffd959ba.PNG",
+    "static/media/local_league_legends.png": "/web-portfolio/static/media/local_league_legends.09fbc695ad3a95b4cf55.png",
+    "static/media/react-logo.png": "/web-portfolio/static/media/react-logo.8a6fc0a24a800d1e0f4a.png",
+    "static/media/python-logo.png": "/web-portfolio/static/media/python-logo.82efb64f8698a267f8bf.png",
+    "static/media/nba_best_bets_pic.png": "/web-portfolio/static/media/nba_best_bets_pic.749d74baaa6473093544.png",
+    "static/media/Typescript_logo_2020.svg.png": "/web-portfolio/static/media/Typescript_logo_2020.svg.1e3902edbe4c3f2970d8.png",
+    "static/media/html-logo.png": "/web-portfolio/static/media/html-logo.bd375a8d11309c87c978.png",
+    "static/media/JavaScript-logo.png": "/web-portfolio/static/media/JavaScript-logo.d206e1f67e4c0985166c.png",
+    "static/media/css-logo.png": "/web-portfolio/static/media/css-logo.58dfbebae4a02001b50e.png",
+    "static/media/mysql-logo.png": "/web-portfolio/static/media/mysql-logo.a04abbf76b39676bc4d9.png",
+    "static/media/flask-logo.svg": "/web-portfolio/static/media/flask-logo.8656fecdd81b1a2b8e504787bd5ca745.svg",
+    "static/media/northeastern_logo.svg": "/web-portfolio/static/media/northeastern_logo.4a8f3750b27af5d2556d8f40a9e0aa57.svg",
+    "index.html": "/web-portfolio/index.html",
+    "main.258ec162.css.map": "/web-portfolio/static/css/main.258ec162.css.map",
+    "main.575ae423.js.map": "/web-portfolio/static/js/main.575ae423.js.map",
+    "453.558935f8.chunk.js.map": "/web-portfolio/static/js/453.558935f8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.258ec162.css",
+    "static/js/main.575ae423.js"
+  ]
+}
