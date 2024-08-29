@@ -15,7 +15,7 @@ const Home = () => {
       <div className="info">
         <h1>My Web Portfolio</h1>
         <p>
-          Hi! I'm Vichu Selvaraju, a first-year at Northeastern University
+          Hi! I'm Vichu Selvaraju, a second-year at Northeastern University
           pursuing a data science degree. I'm interested in tracking patterns in
           sports analytics, especially the NBA. I'm currently looking for an
           internship or research opportunity.
