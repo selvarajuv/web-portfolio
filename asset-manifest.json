@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/web-portfolio/static/css/main.258ec162.css",
-    "main.js": "/web-portfolio/static/js/main.575ae423.js",
+    "main.js": "/web-portfolio/static/js/main.3523d673.js",
     "static/js/453.558935f8.chunk.js": "/web-portfolio/static/js/453.558935f8.chunk.js",
     "static/media/background.png": "/web-portfolio/static/media/background.e9e6ab4247692918bf8a.png",
     "static/media/profile.PNG": "/web-portfolio/static/media/profile.5ea215b945feffd959ba.PNG",
@@ -18,11 +18,11 @@
     "static/media/northeastern_logo.svg": "/web-portfolio/static/media/northeastern_logo.4a8f3750b27af5d2556d8f40a9e0aa57.svg",
     "index.html": "/web-portfolio/index.html",
     "main.258ec162.css.map": "/web-portfolio/static/css/main.258ec162.css.map",
-    "main.575ae423.js.map": "/web-portfolio/static/js/main.575ae423.js.map",
+    "main.3523d673.js.map": "/web-portfolio/static/js/main.3523d673.js.map",
     "453.558935f8.chunk.js.map": "/web-portfolio/static/js/453.558935f8.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.258ec162.css",
-    "static/js/main.575ae423.js"
+    "static/js/main.3523d673.js"
   ]
 }
