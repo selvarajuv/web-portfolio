@@ -7,7 +7,7 @@ const educationData = [
   {
     degree: "Bachelor of Data Science",
     university: "Northeastern University",
-    date: "Expected Gradutation in 2027",
+    date: "Expected Graduation in 2027",
     gpa: "Current GPA 4.0/4.0",
     logo: [northeastern_logo],
   },
