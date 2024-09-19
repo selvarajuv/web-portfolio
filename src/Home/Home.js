@@ -6,7 +6,7 @@ import { faLinkedin, faGithub } from "@fortawesome/free-brands-svg-icons";
 
 var resume_link =
   "https://drive.google.com/file/d/1OS8sPxIYKddAjFOJY7k6gz3XHsNBRBJo/view?usp=sharing";
-var linkden_link = "https://www.linkedin.com/in/vichu-selvaraju-46b7b9b2/";
+var linkden_link = "https://www.linkedin.com/in/vishwajit-selvaraju/";
 var github_link = "https://github.com/selvarajuv";
 
 const Home = () => {
