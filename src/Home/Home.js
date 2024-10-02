@@ -5,7 +5,7 @@ import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faLinkedin, faGithub } from "@fortawesome/free-brands-svg-icons";
 
 var resume_link =
-  "https://drive.google.com/file/d/1B2AYxsg3S8oiALAaxGxS7SihLbB2jMcz/view?usp=sharing";
+  "https://drive.google.com/file/d/1AQIGz3loOzbhSADm8s50I-LvgHJ4j0MP/view?usp=sharing";
 var linkden_link = "https://www.linkedin.com/in/vishwajit-selvaraju/";
 var github_link = "https://github.com/selvarajuv";
 
